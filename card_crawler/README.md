@@ -1,5 +1,7 @@
 # Card Crawler
 
+![Card Crawler](logo.png)
+
 A solo roguelike deck-builder built fully on-chain using the **Sui Game Engine**. Inspired by Slay the Spire — fight through 3 floors, build your deck, and defeat the Dragon boss.
 
 > All game logic runs on-chain. Combat turns are **PTB-batched** — draw, play cards, and end turn in a single Sui transaction.
