@@ -2,11 +2,14 @@
 
 Workable examples of **fully on-chain games** built on [Sui](https://sui.io) using the [Sui Game Engine](https://github.com/Prajeet-Shrestha/sui-game-engine).
 
+
 ## Games
 
 | Game | Description |
 |------|-------------|
-| [Card Crawler](./card_crawler/) | A roguelike deck-building dungeon crawler with combat, shops, rest stops, and boss fights — all on-chain |
+| [Card Crawler](./examples/card_crawler/) | A roguelike deck-building dungeon crawler with combat, shops, rest stops, and boss fights — all on-chain |
+| [Sokoban](./examples/sokoban/) | The classic box-pushing puzzle game with pixel art and on-chain solution verification |
+| [Tactics Ogre](./examples/tactics_ogre/) | A tactical RPG with squad management, turn-based combat on isometric grids, and full on-chain battles |
 
 ## Getting Started
 
