@@ -1,0 +1,10 @@
+[package]
+name = "sokoban"
+edition = "2024.beta"
+
+[dependencies]
+Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/sui-framework", rev = "framework/mainnet", override = true }
+world = { git = "https://github.com/prajeet-shrestha/sui-game-engine.git", subdir = "world", rev = "main" }
+
+[addresses]
+sokoban = "0x0"
