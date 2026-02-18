@@ -1,0 +1,10 @@
+{
+    "name": "Flappy Bird",
+    "slug": "flappy-bird",
+    "tags": [
+        "Arcade",
+        "Casual"
+    ],
+    "description": "A decentralized clone of the classic Flappy Bird game.",
+    "hasFrontend": true
+}

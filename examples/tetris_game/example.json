@@ -1,0 +1,10 @@
+{
+    "name": "Sui Tetris",
+    "slug": "sui-tetris",
+    "tags": [
+        "Arcade",
+        "Puzzle"
+    ],
+    "description": "A fully on-chain Tetris game.",
+    "hasFrontend": true
+}

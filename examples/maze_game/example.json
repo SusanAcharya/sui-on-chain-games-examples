@@ -1,0 +1,10 @@
+{
+    "name": "Maze Game",
+    "slug": "maze-game",
+    "tags": [
+        "Puzzle",
+        "Strategy"
+    ],
+    "description": "Navigate through a maze on the Sui blockchain.",
+    "hasFrontend": true
+}

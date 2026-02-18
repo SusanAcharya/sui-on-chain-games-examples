@@ -1,0 +1,10 @@
+{
+    "name": "SuiCraft",
+    "slug": "suicraft",
+    "tags": [
+        "Sandbox",
+        "Building"
+    ],
+    "description": "A fully on-chain sandbox game on Sui.",
+    "hasFrontend": true
+}
